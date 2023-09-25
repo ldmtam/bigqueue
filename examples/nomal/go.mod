@@ -1,3 +1,3 @@
-module github.com/jhunters/bigqueue
+module github.com/ldmtam/bigqueue
 
-go 1.13
+go 1.21
